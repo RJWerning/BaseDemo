@@ -1,4 +1,6 @@
-﻿using System.Web.Mvc;
+﻿using System;
+using System.Web.Mvc;
+using BaseDemo.Models;
 
 namespace BaseDemo.Controllers {
     public class HomeController :Controller {
